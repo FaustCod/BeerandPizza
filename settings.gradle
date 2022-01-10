@@ -1,0 +1,3 @@
+include ':Servidor'
+include ':app'
+rootProject.name = "BeerandPizza"

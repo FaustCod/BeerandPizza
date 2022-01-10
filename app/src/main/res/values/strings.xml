@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BeerandPizza</string>
+    <string-array name="opciones">
+        <item>Bebidas</item>
+        <item>Comidas</item>
+        <item>Ir al Carro de compras</item>
+
+    </string-array>
+</resources>
